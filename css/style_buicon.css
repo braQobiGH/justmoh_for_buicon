@@ -43,3 +43,7 @@ p{
     padding:5px;
     line-height:120px;
 }
+.cat-icon img{
+    height:300px;
+    width:100%;
+}
