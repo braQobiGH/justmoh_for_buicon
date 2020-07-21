@@ -3363,7 +3363,7 @@ hero-btn {
 .main-header .main-menu ul ul.submenu {
   position: absolute;
   width: 170px;
-  background: #0F9D58;
+  background:white;
   left: 0;
   top: 90%;
   visibility: hidden;
@@ -3383,6 +3383,7 @@ hero-btn {
   margin-left: 7px;
   display: block;
   color: #000;
+  border-bottom: 1px solid #ccc
 }
 
 /* line 124, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
@@ -3394,8 +3395,10 @@ hero-btn {
 
 /* line 128, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
 .main-header .main-menu ul ul.submenu > li > a:hover {
-  background: none;
+  background: #0F9D58;
   padding-left: 13px !important;
+  color:white !important
+  
 }
 
 /* line 143, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
