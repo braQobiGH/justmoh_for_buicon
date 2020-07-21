@@ -1,0 +1,45 @@
+body{
+    background-color: #ccc !important;
+}
+.header{
+    height:100px;
+    background-color: white;
+    position: fixed;
+    width:100%;
+}
+.header img{
+    width:150px;
+}
+.aqua{
+    background-color:   #0F9D58!important;
+}
+.bg-blue{
+    background-color: rgb(37, 116, 190) !important;
+}
+.white-text{
+    color:white !important
+}
+a{
+    color:white !important;
+}
+p{
+    color:black
+}
+.cat-cap p{
+    color:white
+}
+.image-placeholder{
+    align-self: center;
+    height:150px;
+    width:150px;
+    border:1px solid white
+}
+#logo-div{
+    background:white;
+    width:150px;
+    height:150px;
+    margin:3px !important;
+    border-radius:50%;
+    padding:5px;
+    line-height:120px;
+}
