@@ -3293,6 +3293,7 @@ hero-btn {
 /* line 56, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
 .header-area .header-top .header-info-right .header-social li {
   display: inline-block;
+
 }
 
 /* line 58, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
@@ -3300,11 +3301,15 @@ hero-btn {
   color: #fff;
   font-size: 16px;
   padding-left: 25px;
+  
 }
 
 /* line 62, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
 .header-area .header-top .header-info-right .header-social li a:hover {
-  color: #14435c;
+  padding: 10px;
+  background:white;
+  border-radius:100%;
+  color:rgb(13, 126, 170) !important;
 }
 
 /* line 73, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
@@ -3376,6 +3381,7 @@ hero-btn {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   color: #000;
+  
 }
 
 /* line 121, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
