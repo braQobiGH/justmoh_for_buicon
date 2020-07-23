@@ -3058,7 +3058,7 @@ hero-btn {
 .section-tittle span::before {
   position: absolute;
   content: "";
-  width: 54px;
+  width: 34px;
   height: 2px;
   background: #eb566c;
   top: 0;
