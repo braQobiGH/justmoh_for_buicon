@@ -358,7 +358,7 @@ a:focus, a:hover {
   top: 0px;
   width: 100%;
   height: 100%;
-  background: #041347;
+  background: black;
   opacity: .7;
 }
 
@@ -1447,3 +1447,24 @@ pre {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+/*styling footer*/
+
+.custFooter{
+  position: relative;
+  padding: 70px 0px;
+ 
+  background: url("../images/21.jpg") no-repeat;
+  background-size: cover;
+  background-attachment:fixed;
+}
+.custFooter:before{
+  position: absolute;
+  content: "";
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  background:black;
+  opacity: .9;
+}
